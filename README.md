@@ -6,3 +6,11 @@ To run:
 3. Run each build, collect output to file in `results/log.ant|mvn|gradle.txt`
 4. In `results` run `php parseLogs.php`
 
+Results:
+
+|                      | Time in msec            |                  |                              |
+|---------------------|--------------------------|------------------|------------------------------|
+|           | Time to start forked JVM | Time to run test | Time to tear down forked JVM |
+| ant                 | 250.42                   | 252.81           | 8.75                         |
+| gradle              | 394.91                   | 253.12           | 16.9                         |
+| mvn                 | 244.44                   | 253.02           | 351.61                       |
