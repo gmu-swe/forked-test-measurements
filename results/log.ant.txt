@@ -1,0 +1,711 @@
+Buildfile: /Users/jon/Documents/GMU/Projects/forked-test-measurements/ant-benchmark/build.xml
+
+compile:
+
+test-compile:
+
+test:
+    [junit] Transform org/apache/tools/ant/taskdefs/optional/junit/JUnitTask
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692233651
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692233892
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692233895
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692234149
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692234150
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692234159
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692234159
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692234407
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692234409
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692234661
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692234662
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692234668
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692234669
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692234927
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692234929
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692235184
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692235185
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692235192
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692235192
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692235457
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692235460
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692235710
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692235711
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692235721
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692235721
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692235971
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692235973
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692236227
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692236228
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692236237
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692236237
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692236483
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692236485
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692236735
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692236736
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692236744
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692236745
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692236988
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692236990
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692237245
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692237246
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692237254
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692237254
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692237500
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692237503
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692237757
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692237758
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692237766
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692237767
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692238015
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692238018
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692238268
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692238269
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692238278
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692238278
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692238520
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692238523
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692238777
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692238778
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692238787
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692238787
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692239037
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692239040
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692239296
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692239297
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692239305
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692239305
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692239549
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692239551
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692239805
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692239807
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692239815
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692239815
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692240059
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692240062
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692240317
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692240318
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692240326
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692240326
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692240573
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692240576
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692240828
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692240829
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692240838
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692240838
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692241083
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692241086
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692241339
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692241339
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692241347
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692241347
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692241588
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692241590
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692241841
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692241842
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692241850
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692241850
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692242099
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692242102
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692242355
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692242356
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692242364
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692242364
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692242610
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692242613
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692242863
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692242864
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692242872
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692242872
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692243119
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692243122
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692243374
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692243375
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692243383
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692243383
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692243628
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692243630
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692243885
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692243886
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692243894
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692243894
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692244129
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692244132
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692244382
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692244383
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692244390
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692244391
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692244635
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692244638
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692244889
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692244890
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692244899
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692244899
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692245148
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692245150
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692245405
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692245406
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692245414
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692245414
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692245660
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692245662
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692245915
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692245916
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692245924
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692245924
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692246170
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692246172
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692246426
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692246427
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692246436
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692246436
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692246685
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692246687
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692246941
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692246942
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692246950
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692246950
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692247210
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692247212
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692247462
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692247463
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692247468
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692247468
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692247709
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692247712
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692247965
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692247965
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692247974
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692247974
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692248220
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692248223
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692248477
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692248478
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692248486
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692248486
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692248733
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692248736
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692248989
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692248990
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692248997
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692248997
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692249244
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692249246
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692249499
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692249500
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692249507
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692249507
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692249765
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692249767
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692250021
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692250022
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692250030
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692250030
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692250279
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692250282
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692250533
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692250534
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692250542
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692250542
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692250793
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692250796
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692251048
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692251049
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692251056
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692251056
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692251313
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692251315
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692251568
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692251569
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692251576
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692251577
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692251826
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692251829
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692252080
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692252081
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692252088
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692252089
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692252339
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692252341
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692252592
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692252593
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692252600
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692252600
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692252845
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692252847
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692253099
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692253100
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692253107
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692253107
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692253352
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692253354
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692253605
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692253606
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692253614
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692253614
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692253873
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692253876
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692254128
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692254129
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692254137
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692254137
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692254380
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692254382
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692254635
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692254636
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692254644
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692254644
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692254877
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692254879
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692255132
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692255133
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692255142
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692255142
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692255377
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692255379
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692255632
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692255633
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692255640
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692255640
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692255883
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692255886
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692256137
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692256138
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692256147
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692256147
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692256390
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692256393
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692256645
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692256646
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692256654
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692256654
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692256889
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692256892
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692257146
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692257147
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692257155
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692257155
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692257400
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692257402
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692257655
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692257656
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692257662
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692257662
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692257903
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692257905
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692258160
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692258161
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692258169
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692258169
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692258420
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692258423
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692258677
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692258678
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692258685
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692258686
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692258937
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692258939
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692259195
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692259195
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692259203
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692259203
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692259449
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692259451
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692259702
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692259703
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692259711
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692259711
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692259957
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692259959
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692260210
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692260210
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692260218
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692260218
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692260463
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692260465
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692260718
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692260719
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692260726
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692260726
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692260974
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692260976
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692261231
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692261232
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692261240
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692261240
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692261487
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692261490
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692261744
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692261745
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692261753
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692261753
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692262005
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692262007
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692262258
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692262259
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692262267
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692262267
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692262523
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692262526
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692262778
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692262779
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692262786
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692262786
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692263024
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692263027
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692263280
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692263281
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692263289
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692263289
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692263534
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692263536
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692263790
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692263791
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692263799
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692263799
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692264048
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692264051
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692264304
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692264305
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692264313
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692264313
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692264558
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692264560
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692264811
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692264812
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692264820
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692264820
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692265062
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692265064
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692265317
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692265318
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692265325
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692265325
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692265597
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692265604
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692265858
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692265859
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692265867
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692265867
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692266114
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692266117
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692266372
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692266373
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692266380
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692266380
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692266629
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692266632
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692266885
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692266886
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692266894
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692266894
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692267139
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692267142
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692267392
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692267393
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692267400
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692267401
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692267651
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692267653
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692267908
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692267909
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692267915
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692267915
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692268162
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692268165
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692268416
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692268417
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692268425
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692268425
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692268673
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692268675
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692268930
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692268931
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692268939
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692268939
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692269187
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692269190
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692269444
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692269445
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692269453
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692269453
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692269709
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692269711
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692269966
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692269967
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692269975
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692269975
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692270225
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692270227
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692270480
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692270481
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692270489
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692270489
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692270731
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692270734
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692270984
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692270985
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692270994
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692270994
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692271246
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692271248
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692271500
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692271501
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692271509
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692271509
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692271759
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692271762
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692272016
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692272017
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692272025
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692272025
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692272277
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692272280
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692272534
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692272535
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692272543
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692272543
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692272795
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692272797
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692273047
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692273048
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692273056
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692273056
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692273312
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692273314
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692273565
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692273566
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692273574
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692273574
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692273813
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692273816
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692274066
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692274067
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692274074
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692274074
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692274326
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692274328
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692274581
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692274582
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692274589
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692274589
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692274841
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692274843
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692275098
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692275099
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692275107
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692275107
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692275352
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692275355
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692275606
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692275607
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692275614
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692275614
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692275866
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692275869
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692276122
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692276124
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692276132
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692276132
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692276383
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692276386
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692276636
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692276637
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692276645
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692276645
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692276891
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692276893
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692277148
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692277149
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692277158
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692277158
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692277403
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692277405
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692277659
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692277660
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692277668
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692277668
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692277916
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692277919
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692278173
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692278174
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692278181
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692278181
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692278434
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692278436
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692278692
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692278693
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692278700
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692278700
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692278944
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692278947
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692279200
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692279201
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692279208
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692279208
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692279457
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692279459
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692279711
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692279712
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692279719
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692279720
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692279969
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692279972
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692280222
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692280223
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692280230
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692280230
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692280477
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692280480
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692280734
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692280735
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692280742
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692280742
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692281001
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692281003
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692281258
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692281259
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692281267
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692281267
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692281518
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692281521
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692281774
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692281775
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692281783
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692281783
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692282034
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692282037
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692282290
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692282291
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692282298
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692282298
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692282542
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692282545
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692282798
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692282799
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692282807
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692282807
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692283060
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692283063
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692283316
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692283317
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692283324
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692283324
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692283572
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692283574
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692283829
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692283830
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692283838
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692283838
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692284089
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692284091
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692284342
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692284342
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692284349
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,entry,1567692284349
+    [junit] Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+    [junit] TESTPROFILER,SlowTest250,beforeClass,1567692284594
+    [junit] TESTPROFILER,SlowTest250,testStart,1567692284597
+    [junit] TESTPROFILER,SlowTest250,testEnd,1567692284848
+    [junit] TESTPROFILER,SlowTest250,afterClass,1567692284850
+    [junit] TESTPROFILER,org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.executeAsForked,exit,1567692284858
+
+BUILD SUCCESSFUL
+Total time: 51 seconds

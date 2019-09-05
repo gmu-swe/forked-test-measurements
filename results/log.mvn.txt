@@ -1,0 +1,838 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------< edu.gmu.swe.junit.measurement:maven-benchmark >------------
+[INFO] Building maven-benchmark 1.0.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ maven-benchmark ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/jon/Documents/GMU/Projects/forked-test-measurements/maven-benchmark/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ maven-benchmark ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ maven-benchmark ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/jon/Documents/GMU/Projects/forked-test-measurements/maven-benchmark/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ maven-benchmark ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 100 source files to /Users/jon/Documents/GMU/Projects/forked-test-measurements/maven-benchmark/target/test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:3.0.0-M3:test (default-test) @ maven-benchmark ---
+Transform org/apache/maven/plugin/surefire/booterclient/ForkStarter
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692305497
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest15_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692305773
+TESTPROFILER,SlowTest250,testStart,1567692305774
+TESTPROFILER,SlowTest250,testEnd,1567692306025
+TESTPROFILER,SlowTest250,afterClass,1567692306026
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.275 s - in edu.gmu.swe.junit.measurement.SlowTest15_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692306401
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692306402
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest73_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692306661
+TESTPROFILER,SlowTest250,testStart,1567692306663
+TESTPROFILER,SlowTest250,testEnd,1567692306919
+TESTPROFILER,SlowTest250,afterClass,1567692306920
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.307 s - in edu.gmu.swe.junit.measurement.SlowTest73_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692307275
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692307276
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest21_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692307503
+TESTPROFILER,SlowTest250,testStart,1567692307504
+TESTPROFILER,SlowTest250,testEnd,1567692307759
+TESTPROFILER,SlowTest250,afterClass,1567692307760
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest21_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692308119
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692308120
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest47_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692308357
+TESTPROFILER,SlowTest250,testStart,1567692308358
+TESTPROFILER,SlowTest250,testEnd,1567692308611
+TESTPROFILER,SlowTest250,afterClass,1567692308612
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest47_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692308968
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692308969
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest6_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692309213
+TESTPROFILER,SlowTest250,testStart,1567692309215
+TESTPROFILER,SlowTest250,testEnd,1567692309468
+TESTPROFILER,SlowTest250,afterClass,1567692309469
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest6_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692309838
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692309838
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest97_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692310076
+TESTPROFILER,SlowTest250,testStart,1567692310077
+TESTPROFILER,SlowTest250,testEnd,1567692310331
+TESTPROFILER,SlowTest250,afterClass,1567692310333
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.29 s - in edu.gmu.swe.junit.measurement.SlowTest97_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692310692
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692310692
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest10_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692310927
+TESTPROFILER,SlowTest250,testStart,1567692310929
+TESTPROFILER,SlowTest250,testEnd,1567692311181
+TESTPROFILER,SlowTest250,afterClass,1567692311183
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest10_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692311542
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692311542
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest38_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692311785
+TESTPROFILER,SlowTest250,testStart,1567692311786
+TESTPROFILER,SlowTest250,testEnd,1567692312039
+TESTPROFILER,SlowTest250,afterClass,1567692312041
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest38_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692312406
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692312407
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest76_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692312643
+TESTPROFILER,SlowTest250,testStart,1567692312644
+TESTPROFILER,SlowTest250,testEnd,1567692312899
+TESTPROFILER,SlowTest250,afterClass,1567692312900
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest76_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692313271
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692313272
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest24_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692313512
+TESTPROFILER,SlowTest250,testStart,1567692313513
+TESTPROFILER,SlowTest250,testEnd,1567692313766
+TESTPROFILER,SlowTest250,afterClass,1567692313767
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest24_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692314136
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692314137
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest92_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692314377
+TESTPROFILER,SlowTest250,testStart,1567692314378
+TESTPROFILER,SlowTest250,testEnd,1567692314629
+TESTPROFILER,SlowTest250,afterClass,1567692314630
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest92_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692314980
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692314981
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest42_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692315218
+TESTPROFILER,SlowTest250,testStart,1567692315219
+TESTPROFILER,SlowTest250,testEnd,1567692315472
+TESTPROFILER,SlowTest250,afterClass,1567692315474
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest42_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692315834
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692315835
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest3_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692316066
+TESTPROFILER,SlowTest250,testStart,1567692316067
+TESTPROFILER,SlowTest250,testEnd,1567692316319
+TESTPROFILER,SlowTest250,afterClass,1567692316320
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest3_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692316696
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692316696
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest14_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692316935
+TESTPROFILER,SlowTest250,testStart,1567692316937
+TESTPROFILER,SlowTest250,testEnd,1567692317190
+TESTPROFILER,SlowTest250,afterClass,1567692317192
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.29 s - in edu.gmu.swe.junit.measurement.SlowTest14_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692317575
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692317576
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest72_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692317815
+TESTPROFILER,SlowTest250,testStart,1567692317816
+TESTPROFILER,SlowTest250,testEnd,1567692318067
+TESTPROFILER,SlowTest250,afterClass,1567692318069
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.284 s - in edu.gmu.swe.junit.measurement.SlowTest72_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692318434
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692318435
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest20_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692318672
+TESTPROFILER,SlowTest250,testStart,1567692318673
+TESTPROFILER,SlowTest250,testEnd,1567692318925
+TESTPROFILER,SlowTest250,afterClass,1567692318926
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest20_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692319292
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692319292
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest46_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692319602
+TESTPROFILER,SlowTest250,testStart,1567692319605
+TESTPROFILER,SlowTest250,testEnd,1567692319856
+TESTPROFILER,SlowTest250,afterClass,1567692319856
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.323 s - in edu.gmu.swe.junit.measurement.SlowTest46_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692320217
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692320218
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest7_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692320458
+TESTPROFILER,SlowTest250,testStart,1567692320459
+TESTPROFILER,SlowTest250,testEnd,1567692320714
+TESTPROFILER,SlowTest250,afterClass,1567692320715
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest7_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692321074
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692321075
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest96_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692321312
+TESTPROFILER,SlowTest250,testStart,1567692321314
+TESTPROFILER,SlowTest250,testEnd,1567692321567
+TESTPROFILER,SlowTest250,afterClass,1567692321569
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest96_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692321923
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692321924
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest11_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692322170
+TESTPROFILER,SlowTest250,testStart,1567692322172
+TESTPROFILER,SlowTest250,testEnd,1567692322423
+TESTPROFILER,SlowTest250,afterClass,1567692322425
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest11_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692322783
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692322783
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest77_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692323025
+TESTPROFILER,SlowTest250,testStart,1567692323027
+TESTPROFILER,SlowTest250,testEnd,1567692323281
+TESTPROFILER,SlowTest250,afterClass,1567692323282
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest77_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692323651
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692323651
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest39_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692323890
+TESTPROFILER,SlowTest250,testStart,1567692323892
+TESTPROFILER,SlowTest250,testEnd,1567692324143
+TESTPROFILER,SlowTest250,afterClass,1567692324145
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest39_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692324497
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692324497
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest25_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692324740
+TESTPROFILER,SlowTest250,testStart,1567692324742
+TESTPROFILER,SlowTest250,testEnd,1567692324996
+TESTPROFILER,SlowTest250,afterClass,1567692324998
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest25_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692325365
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692325366
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest93_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692325628
+TESTPROFILER,SlowTest250,testStart,1567692325630
+TESTPROFILER,SlowTest250,testEnd,1567692325884
+TESTPROFILER,SlowTest250,afterClass,1567692325885
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.29 s - in edu.gmu.swe.junit.measurement.SlowTest93_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692326242
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692326243
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest43_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692326478
+TESTPROFILER,SlowTest250,testStart,1567692326480
+TESTPROFILER,SlowTest250,testEnd,1567692326734
+TESTPROFILER,SlowTest250,afterClass,1567692326735
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest43_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692327095
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692327096
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest2_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692327334
+TESTPROFILER,SlowTest250,testStart,1567692327336
+TESTPROFILER,SlowTest250,testEnd,1567692327590
+TESTPROFILER,SlowTest250,afterClass,1567692327592
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest2_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692327958
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692327959
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest89_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692328195
+TESTPROFILER,SlowTest250,testStart,1567692328197
+TESTPROFILER,SlowTest250,testEnd,1567692328450
+TESTPROFILER,SlowTest250,afterClass,1567692328451
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest89_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692328800
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692328800
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest59_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692329060
+TESTPROFILER,SlowTest250,testStart,1567692329061
+TESTPROFILER,SlowTest250,testEnd,1567692329315
+TESTPROFILER,SlowTest250,afterClass,1567692329316
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest59_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692329677
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692329678
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest17_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692329972
+TESTPROFILER,SlowTest250,testStart,1567692329974
+TESTPROFILER,SlowTest250,testEnd,1567692330228
+TESTPROFILER,SlowTest250,afterClass,1567692330229
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest17_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692330591
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692330591
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest71_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692330823
+TESTPROFILER,SlowTest250,testStart,1567692330825
+TESTPROFILER,SlowTest250,testEnd,1567692331079
+TESTPROFILER,SlowTest250,afterClass,1567692331081
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.296 s - in edu.gmu.swe.junit.measurement.SlowTest71_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692331431
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692331431
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest23_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692331678
+TESTPROFILER,SlowTest250,testStart,1567692331679
+TESTPROFILER,SlowTest250,testEnd,1567692331932
+TESTPROFILER,SlowTest250,afterClass,1567692331933
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest23_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692332298
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692332299
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest4_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692332546
+TESTPROFILER,SlowTest250,testStart,1567692332547
+TESTPROFILER,SlowTest250,testEnd,1567692332799
+TESTPROFILER,SlowTest250,afterClass,1567692332800
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest4_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692333161
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692333161
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest45_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692333404
+TESTPROFILER,SlowTest250,testStart,1567692333406
+TESTPROFILER,SlowTest250,testEnd,1567692333660
+TESTPROFILER,SlowTest250,afterClass,1567692333660
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.291 s - in edu.gmu.swe.junit.measurement.SlowTest45_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692334015
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692334016
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest95_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692334253
+TESTPROFILER,SlowTest250,testStart,1567692334254
+TESTPROFILER,SlowTest250,testEnd,1567692334507
+TESTPROFILER,SlowTest250,afterClass,1567692334508
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest95_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692334868
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692334868
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest12_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692335111
+TESTPROFILER,SlowTest250,testStart,1567692335113
+TESTPROFILER,SlowTest250,testEnd,1567692335367
+TESTPROFILER,SlowTest250,afterClass,1567692335368
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest12_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692335467
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692335468
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest74_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692335707
+TESTPROFILER,SlowTest250,testStart,1567692335708
+TESTPROFILER,SlowTest250,testEnd,1567692335963
+TESTPROFILER,SlowTest250,afterClass,1567692335964
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.295 s - in edu.gmu.swe.junit.measurement.SlowTest74_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692336324
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692336325
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest68_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692336567
+TESTPROFILER,SlowTest250,testStart,1567692336569
+TESTPROFILER,SlowTest250,testEnd,1567692336820
+TESTPROFILER,SlowTest250,afterClass,1567692336821
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.284 s - in edu.gmu.swe.junit.measurement.SlowTest68_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692337182
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692337183
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest26_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692337416
+TESTPROFILER,SlowTest250,testStart,1567692337418
+TESTPROFILER,SlowTest250,testEnd,1567692337672
+TESTPROFILER,SlowTest250,afterClass,1567692337673
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest26_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692338039
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692338039
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest90_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692338277
+TESTPROFILER,SlowTest250,testStart,1567692338278
+TESTPROFILER,SlowTest250,testEnd,1567692338531
+TESTPROFILER,SlowTest250,afterClass,1567692338532
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.283 s - in edu.gmu.swe.junit.measurement.SlowTest90_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692338894
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692338894
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest1_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692339141
+TESTPROFILER,SlowTest250,testStart,1567692339142
+TESTPROFILER,SlowTest250,testEnd,1567692339393
+TESTPROFILER,SlowTest250,afterClass,1567692339394
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest1_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692339743
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692339744
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest40_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692339980
+TESTPROFILER,SlowTest250,testStart,1567692339982
+TESTPROFILER,SlowTest250,testEnd,1567692340235
+TESTPROFILER,SlowTest250,afterClass,1567692340236
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest40_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692340601
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692340601
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest88_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692340848
+TESTPROFILER,SlowTest250,testStart,1567692340849
+TESTPROFILER,SlowTest250,testEnd,1567692341104
+TESTPROFILER,SlowTest250,afterClass,1567692341105
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest88_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692341474
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692341475
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest16_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692341713
+TESTPROFILER,SlowTest250,testStart,1567692341714
+TESTPROFILER,SlowTest250,testEnd,1567692341965
+TESTPROFILER,SlowTest250,afterClass,1567692341966
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.283 s - in edu.gmu.swe.junit.measurement.SlowTest16_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692342337
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692342338
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest58_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692342576
+TESTPROFILER,SlowTest250,testStart,1567692342578
+TESTPROFILER,SlowTest250,testEnd,1567692342832
+TESTPROFILER,SlowTest250,afterClass,1567692342834
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest58_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692343200
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692343201
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest70_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692343454
+TESTPROFILER,SlowTest250,testStart,1567692343456
+TESTPROFILER,SlowTest250,testEnd,1567692343708
+TESTPROFILER,SlowTest250,afterClass,1567692343709
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest70_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692344064
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692344064
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest22_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692344318
+TESTPROFILER,SlowTest250,testStart,1567692344319
+TESTPROFILER,SlowTest250,testEnd,1567692344572
+TESTPROFILER,SlowTest250,afterClass,1567692344573
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.29 s - in edu.gmu.swe.junit.measurement.SlowTest22_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692344936
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692344936
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest5_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692345176
+TESTPROFILER,SlowTest250,testStart,1567692345177
+TESTPROFILER,SlowTest250,testEnd,1567692345430
+TESTPROFILER,SlowTest250,afterClass,1567692345432
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest5_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692345465
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692345465
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest44_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692345706
+TESTPROFILER,SlowTest250,testStart,1567692345708
+TESTPROFILER,SlowTest250,testEnd,1567692345959
+TESTPROFILER,SlowTest250,afterClass,1567692345960
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest44_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692346325
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692346325
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest94_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692346569
+TESTPROFILER,SlowTest250,testStart,1567692346570
+TESTPROFILER,SlowTest250,testEnd,1567692346822
+TESTPROFILER,SlowTest250,afterClass,1567692346824
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest94_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692347179
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692347180
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest13_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692347417
+TESTPROFILER,SlowTest250,testStart,1567692347419
+TESTPROFILER,SlowTest250,testEnd,1567692347671
+TESTPROFILER,SlowTest250,afterClass,1567692347672
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest13_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692348035
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692348035
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest75_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692348274
+TESTPROFILER,SlowTest250,testStart,1567692348275
+TESTPROFILER,SlowTest250,testEnd,1567692348529
+TESTPROFILER,SlowTest250,afterClass,1567692348530
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest75_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692348898
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692348899
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest27_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692349138
+TESTPROFILER,SlowTest250,testStart,1567692349139
+TESTPROFILER,SlowTest250,testEnd,1567692349393
+TESTPROFILER,SlowTest250,afterClass,1567692349395
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest27_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692349761
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692349762
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest69_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692350000
+TESTPROFILER,SlowTest250,testStart,1567692350001
+TESTPROFILER,SlowTest250,testEnd,1567692350255
+TESTPROFILER,SlowTest250,afterClass,1567692350256
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest69_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692350616
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692350616
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest91_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692350856
+TESTPROFILER,SlowTest250,testStart,1567692350857
+TESTPROFILER,SlowTest250,testEnd,1567692351110
+TESTPROFILER,SlowTest250,afterClass,1567692351112
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest91_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692351479
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692351479
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest0_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692351716
+TESTPROFILER,SlowTest250,testStart,1567692351717
+TESTPROFILER,SlowTest250,testEnd,1567692351971
+TESTPROFILER,SlowTest250,afterClass,1567692351973
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest0_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692352344
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692352344
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest41_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692352581
+TESTPROFILER,SlowTest250,testStart,1567692352582
+TESTPROFILER,SlowTest250,testEnd,1567692352838
+TESTPROFILER,SlowTest250,afterClass,1567692352839
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.29 s - in edu.gmu.swe.junit.measurement.SlowTest41_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692353208
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692353209
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest32_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692353459
+TESTPROFILER,SlowTest250,testStart,1567692353460
+TESTPROFILER,SlowTest250,testEnd,1567692353712
+TESTPROFILER,SlowTest250,afterClass,1567692353714
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.283 s - in edu.gmu.swe.junit.measurement.SlowTest32_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692354083
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692354083
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest54_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692354337
+TESTPROFILER,SlowTest250,testStart,1567692354339
+TESTPROFILER,SlowTest250,testEnd,1567692354594
+TESTPROFILER,SlowTest250,afterClass,1567692354594
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest54_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692354946
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692354947
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest84_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692355184
+TESTPROFILER,SlowTest250,testStart,1567692355186
+TESTPROFILER,SlowTest250,testEnd,1567692355439
+TESTPROFILER,SlowTest250,afterClass,1567692355440
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest84_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692355461
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692355462
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest98_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692355705
+TESTPROFILER,SlowTest250,testStart,1567692355706
+TESTPROFILER,SlowTest250,testEnd,1567692355960
+TESTPROFILER,SlowTest250,afterClass,1567692355961
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.283 s - in edu.gmu.swe.junit.measurement.SlowTest98_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692356315
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692356316
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest48_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692356563
+TESTPROFILER,SlowTest250,testStart,1567692356565
+TESTPROFILER,SlowTest250,testEnd,1567692356820
+TESTPROFILER,SlowTest250,afterClass,1567692356821
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.294 s - in edu.gmu.swe.junit.measurement.SlowTest48_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692357179
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692357180
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest9_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692357422
+TESTPROFILER,SlowTest250,testStart,1567692357424
+TESTPROFILER,SlowTest250,testEnd,1567692357676
+TESTPROFILER,SlowTest250,afterClass,1567692357676
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest9_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692358022
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692358023
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest60_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692358280
+TESTPROFILER,SlowTest250,testStart,1567692358282
+TESTPROFILER,SlowTest250,testEnd,1567692358535
+TESTPROFILER,SlowTest250,afterClass,1567692358536
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.297 s - in edu.gmu.swe.junit.measurement.SlowTest60_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692358917
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692358917
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest79_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692359160
+TESTPROFILER,SlowTest250,testStart,1567692359161
+TESTPROFILER,SlowTest250,testEnd,1567692359414
+TESTPROFILER,SlowTest250,afterClass,1567692359416
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.292 s - in edu.gmu.swe.junit.measurement.SlowTest79_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692359776
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692359776
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest37_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692360015
+TESTPROFILER,SlowTest250,testStart,1567692360016
+TESTPROFILER,SlowTest250,testEnd,1567692360268
+TESTPROFILER,SlowTest250,afterClass,1567692360269
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest37_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692360622
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692360623
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest81_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692360856
+TESTPROFILER,SlowTest250,testStart,1567692360858
+TESTPROFILER,SlowTest250,testEnd,1567692361108
+TESTPROFILER,SlowTest250,afterClass,1567692361109
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.281 s - in edu.gmu.swe.junit.measurement.SlowTest81_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692361464
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692361465
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest51_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692361692
+TESTPROFILER,SlowTest250,testStart,1567692361694
+TESTPROFILER,SlowTest250,testEnd,1567692361946
+TESTPROFILER,SlowTest250,afterClass,1567692361948
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest51_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692362306
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692362306
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest65_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692362534
+TESTPROFILER,SlowTest250,testStart,1567692362535
+TESTPROFILER,SlowTest250,testEnd,1567692362788
+TESTPROFILER,SlowTest250,afterClass,1567692362790
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.282 s - in edu.gmu.swe.junit.measurement.SlowTest65_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692363158
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692363159
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest33_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692363400
+TESTPROFILER,SlowTest250,testStart,1567692363401
+TESTPROFILER,SlowTest250,testEnd,1567692363655
+TESTPROFILER,SlowTest250,afterClass,1567692363656
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest33_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692364017
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692364018
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest55_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692364274
+TESTPROFILER,SlowTest250,testStart,1567692364275
+TESTPROFILER,SlowTest250,testEnd,1567692364530
+TESTPROFILER,SlowTest250,afterClass,1567692364531
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest55_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692364886
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692364887
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest85_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692365122
+TESTPROFILER,SlowTest250,testStart,1567692365124
+TESTPROFILER,SlowTest250,testEnd,1567692365375
+TESTPROFILER,SlowTest250,afterClass,1567692365376
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.284 s - in edu.gmu.swe.junit.measurement.SlowTest85_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692365459
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692365460
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest99_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692365719
+TESTPROFILER,SlowTest250,testStart,1567692365721
+TESTPROFILER,SlowTest250,testEnd,1567692365974
+TESTPROFILER,SlowTest250,afterClass,1567692365975
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.292 s - in edu.gmu.swe.junit.measurement.SlowTest99_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692366328
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692366328
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest49_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692366579
+TESTPROFILER,SlowTest250,testStart,1567692366580
+TESTPROFILER,SlowTest250,testEnd,1567692366834
+TESTPROFILER,SlowTest250,afterClass,1567692366834
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest49_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692367201
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692367201
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest8_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692367447
+TESTPROFILER,SlowTest250,testStart,1567692367448
+TESTPROFILER,SlowTest250,testEnd,1567692367699
+TESTPROFILER,SlowTest250,afterClass,1567692367701
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest8_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692368067
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692368067
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest61_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692368303
+TESTPROFILER,SlowTest250,testStart,1567692368304
+TESTPROFILER,SlowTest250,testEnd,1567692368559
+TESTPROFILER,SlowTest250,afterClass,1567692368561
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.292 s - in edu.gmu.swe.junit.measurement.SlowTest61_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692368927
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692368928
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest36_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692369167
+TESTPROFILER,SlowTest250,testStart,1567692369168
+TESTPROFILER,SlowTest250,testEnd,1567692369422
+TESTPROFILER,SlowTest250,afterClass,1567692369424
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.291 s - in edu.gmu.swe.junit.measurement.SlowTest36_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692369796
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692369796
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest78_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692370028
+TESTPROFILER,SlowTest250,testStart,1567692370030
+TESTPROFILER,SlowTest250,testEnd,1567692370285
+TESTPROFILER,SlowTest250,afterClass,1567692370286
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.291 s - in edu.gmu.swe.junit.measurement.SlowTest78_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692370660
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692370661
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest80_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692370913
+TESTPROFILER,SlowTest250,testStart,1567692370914
+TESTPROFILER,SlowTest250,testEnd,1567692371168
+TESTPROFILER,SlowTest250,afterClass,1567692371169
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest80_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692371533
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692371534
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest50_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692371779
+TESTPROFILER,SlowTest250,testStart,1567692371780
+TESTPROFILER,SlowTest250,testEnd,1567692372034
+TESTPROFILER,SlowTest250,afterClass,1567692372035
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest50_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692372391
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692372392
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest64_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692372628
+TESTPROFILER,SlowTest250,testStart,1567692372629
+TESTPROFILER,SlowTest250,testEnd,1567692372882
+TESTPROFILER,SlowTest250,afterClass,1567692372883
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest64_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692373254
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692373254
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest30_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692373507
+TESTPROFILER,SlowTest250,testStart,1567692373509
+TESTPROFILER,SlowTest250,testEnd,1567692373759
+TESTPROFILER,SlowTest250,afterClass,1567692373760
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest30_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692374132
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692374133
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest18_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692374380
+TESTPROFILER,SlowTest250,testStart,1567692374381
+TESTPROFILER,SlowTest250,testEnd,1567692374634
+TESTPROFILER,SlowTest250,afterClass,1567692374635
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest18_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692374989
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692374990
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest56_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692375226
+TESTPROFILER,SlowTest250,testStart,1567692375227
+TESTPROFILER,SlowTest250,testEnd,1567692375480
+TESTPROFILER,SlowTest250,afterClass,1567692375482
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest56_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692375851
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692375852
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest86_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692376095
+TESTPROFILER,SlowTest250,testStart,1567692376097
+TESTPROFILER,SlowTest250,testEnd,1567692376349
+TESTPROFILER,SlowTest250,afterClass,1567692376350
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.286 s - in edu.gmu.swe.junit.measurement.SlowTest86_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692376712
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692376713
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest62_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692376950
+TESTPROFILER,SlowTest250,testStart,1567692376952
+TESTPROFILER,SlowTest250,testEnd,1567692377205
+TESTPROFILER,SlowTest250,afterClass,1567692377207
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest62_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692377571
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692377571
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest35_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692377812
+TESTPROFILER,SlowTest250,testStart,1567692377814
+TESTPROFILER,SlowTest250,testEnd,1567692378066
+TESTPROFILER,SlowTest250,afterClass,1567692378067
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest35_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692378425
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692378425
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest83_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692378662
+TESTPROFILER,SlowTest250,testStart,1567692378663
+TESTPROFILER,SlowTest250,testEnd,1567692378914
+TESTPROFILER,SlowTest250,afterClass,1567692378915
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in edu.gmu.swe.junit.measurement.SlowTest83_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692379267
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692379268
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest53_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692379525
+TESTPROFILER,SlowTest250,testStart,1567692379526
+TESTPROFILER,SlowTest250,testEnd,1567692379780
+TESTPROFILER,SlowTest250,afterClass,1567692379781
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest53_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692380145
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692380146
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest29_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692380388
+TESTPROFILER,SlowTest250,testStart,1567692380390
+TESTPROFILER,SlowTest250,testEnd,1567692380644
+TESTPROFILER,SlowTest250,afterClass,1567692380645
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest29_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692381016
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692381017
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest67_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692381269
+TESTPROFILER,SlowTest250,testStart,1567692381271
+TESTPROFILER,SlowTest250,testEnd,1567692381526
+TESTPROFILER,SlowTest250,afterClass,1567692381527
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.301 s - in edu.gmu.swe.junit.measurement.SlowTest67_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692381880
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692381880
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest31_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692382116
+TESTPROFILER,SlowTest250,testStart,1567692382117
+TESTPROFILER,SlowTest250,testEnd,1567692382368
+TESTPROFILER,SlowTest250,afterClass,1567692382369
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.284 s - in edu.gmu.swe.junit.measurement.SlowTest31_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692382727
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692382728
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest57_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692382964
+TESTPROFILER,SlowTest250,testStart,1567692382965
+TESTPROFILER,SlowTest250,testEnd,1567692383219
+TESTPROFILER,SlowTest250,afterClass,1567692383221
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest57_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692383595
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692383596
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest19_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692383827
+TESTPROFILER,SlowTest250,testStart,1567692383829
+TESTPROFILER,SlowTest250,testEnd,1567692384082
+TESTPROFILER,SlowTest250,afterClass,1567692384084
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest19_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692384442
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692384442
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest87_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692384670
+TESTPROFILER,SlowTest250,testStart,1567692384671
+TESTPROFILER,SlowTest250,testEnd,1567692384924
+TESTPROFILER,SlowTest250,afterClass,1567692384926
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest87_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692385282
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692385283
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest63_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692385538
+TESTPROFILER,SlowTest250,testStart,1567692385540
+TESTPROFILER,SlowTest250,testEnd,1567692385793
+TESTPROFILER,SlowTest250,afterClass,1567692385794
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.296 s - in edu.gmu.swe.junit.measurement.SlowTest63_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692386157
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692386158
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest34_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692386402
+TESTPROFILER,SlowTest250,testStart,1567692386403
+TESTPROFILER,SlowTest250,testEnd,1567692386654
+TESTPROFILER,SlowTest250,afterClass,1567692386655
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.284 s - in edu.gmu.swe.junit.measurement.SlowTest34_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692387027
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692387028
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest82_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692387266
+TESTPROFILER,SlowTest250,testStart,1567692387268
+TESTPROFILER,SlowTest250,testEnd,1567692387518
+TESTPROFILER,SlowTest250,afterClass,1567692387520
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.285 s - in edu.gmu.swe.junit.measurement.SlowTest82_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692387886
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692387887
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest52_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692388126
+TESTPROFILER,SlowTest250,testStart,1567692388128
+TESTPROFILER,SlowTest250,testEnd,1567692388381
+TESTPROFILER,SlowTest250,afterClass,1567692388382
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 s - in edu.gmu.swe.junit.measurement.SlowTest52_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692388749
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692388750
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest66_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692388986
+TESTPROFILER,SlowTest250,testStart,1567692388988
+TESTPROFILER,SlowTest250,testEnd,1567692389240
+TESTPROFILER,SlowTest250,afterClass,1567692389241
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s - in edu.gmu.swe.junit.measurement.SlowTest66_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692389610
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,entry,1567692389611
+[INFO] Running edu.gmu.swe.junit.measurement.SlowTest28_250msecTest
+TESTPROFILER,SlowTest250,beforeClass,1567692389846
+TESTPROFILER,SlowTest250,testStart,1567692389847
+TESTPROFILER,SlowTest250,testEnd,1567692390101
+TESTPROFILER,SlowTest250,afterClass,1567692390102
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.284 s - in edu.gmu.swe.junit.measurement.SlowTest28_250msecTest
+TESTPROFILER,org/apache/maven/plugin/surefire/booterclient/ForkStarter.fork,exit,1567692390466
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 100, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  01:26 min
+[INFO] Finished at: 2019-09-05T10:06:30-04:00
+[INFO] ------------------------------------------------------------------------

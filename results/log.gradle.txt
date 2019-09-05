@@ -1,0 +1,1315 @@
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+Starting a Gradle Daemon (subsequent builds will be faster)
+> Task :clean
+> Task :compileJava NO-SOURCE
+> Task :processResources NO-SOURCE
+> Task :classes UP-TO-DATE
+> Task :compileTestJava
+> Task :processTestResources NO-SOURCE
+> Task :testClasses
+
+> Task :test
+Transform org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692134625
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest15_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692135005
+
+edu.gmu.swe.junit.measurement.SlowTest15_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692135008
+    TESTPROFILER,SlowTest250,testEnd,1567692135263
+
+edu.gmu.swe.junit.measurement.SlowTest15_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692135264
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692135283
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692135283
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest73_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692135656
+
+edu.gmu.swe.junit.measurement.SlowTest73_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692135659
+    TESTPROFILER,SlowTest250,testEnd,1567692135914
+
+edu.gmu.swe.junit.measurement.SlowTest73_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692135915
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692135931
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692135932
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest21_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692136309
+
+edu.gmu.swe.junit.measurement.SlowTest21_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692136311
+    TESTPROFILER,SlowTest250,testEnd,1567692136565
+
+edu.gmu.swe.junit.measurement.SlowTest21_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692136566
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692136584
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692136584
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest47_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692136963
+
+edu.gmu.swe.junit.measurement.SlowTest47_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692136966
+    TESTPROFILER,SlowTest250,testEnd,1567692137219
+
+edu.gmu.swe.junit.measurement.SlowTest47_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692137221
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692137238
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692137238
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest6_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692137613
+
+edu.gmu.swe.junit.measurement.SlowTest6_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692137616
+    TESTPROFILER,SlowTest250,testEnd,1567692137869
+
+edu.gmu.swe.junit.measurement.SlowTest6_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692137870
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692137888
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692137888
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest97_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692138269
+
+edu.gmu.swe.junit.measurement.SlowTest97_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692138272
+    TESTPROFILER,SlowTest250,testEnd,1567692138527
+
+edu.gmu.swe.junit.measurement.SlowTest97_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692138528
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692138546
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692138546
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest10_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692138918
+
+edu.gmu.swe.junit.measurement.SlowTest10_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692138921
+    TESTPROFILER,SlowTest250,testEnd,1567692139175
+
+edu.gmu.swe.junit.measurement.SlowTest10_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692139177
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692139194
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692139194
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest38_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692139575
+
+edu.gmu.swe.junit.measurement.SlowTest38_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692139578
+    TESTPROFILER,SlowTest250,testEnd,1567692139832
+
+edu.gmu.swe.junit.measurement.SlowTest38_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692139833
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692139850
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692139851
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest76_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692140228
+
+edu.gmu.swe.junit.measurement.SlowTest76_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692140231
+    TESTPROFILER,SlowTest250,testEnd,1567692140483
+
+edu.gmu.swe.junit.measurement.SlowTest76_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692140485
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692140502
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692140502
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest24_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692140870
+
+edu.gmu.swe.junit.measurement.SlowTest24_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692140872
+    TESTPROFILER,SlowTest250,testEnd,1567692141123
+
+edu.gmu.swe.junit.measurement.SlowTest24_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692141125
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692141141
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692141141
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest92_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692141525
+
+edu.gmu.swe.junit.measurement.SlowTest92_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692141527
+    TESTPROFILER,SlowTest250,testEnd,1567692141781
+
+edu.gmu.swe.junit.measurement.SlowTest92_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692141783
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692141799
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692141799
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest42_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692142176
+
+edu.gmu.swe.junit.measurement.SlowTest42_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692142179
+    TESTPROFILER,SlowTest250,testEnd,1567692142431
+
+edu.gmu.swe.junit.measurement.SlowTest42_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692142432
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692142449
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692142449
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest3_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692142825
+
+edu.gmu.swe.junit.measurement.SlowTest3_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692142828
+    TESTPROFILER,SlowTest250,testEnd,1567692143083
+
+edu.gmu.swe.junit.measurement.SlowTest3_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692143084
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692143100
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692143101
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest14_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692143476
+
+edu.gmu.swe.junit.measurement.SlowTest14_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692143479
+    TESTPROFILER,SlowTest250,testEnd,1567692143731
+
+edu.gmu.swe.junit.measurement.SlowTest14_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692143732
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692143748
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692143748
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest72_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692144125
+
+edu.gmu.swe.junit.measurement.SlowTest72_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692144128
+    TESTPROFILER,SlowTest250,testEnd,1567692144383
+
+edu.gmu.swe.junit.measurement.SlowTest72_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692144384
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692144400
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692144401
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest20_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692144785
+
+edu.gmu.swe.junit.measurement.SlowTest20_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692144788
+    TESTPROFILER,SlowTest250,testEnd,1567692145041
+
+edu.gmu.swe.junit.measurement.SlowTest20_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692145042
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692145058
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692145058
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest46_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692145431
+
+edu.gmu.swe.junit.measurement.SlowTest46_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692145435
+    TESTPROFILER,SlowTest250,testEnd,1567692145685
+
+edu.gmu.swe.junit.measurement.SlowTest46_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692145686
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692145702
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692145702
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest7_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692146087
+
+edu.gmu.swe.junit.measurement.SlowTest7_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692146090
+    TESTPROFILER,SlowTest250,testEnd,1567692146343
+
+edu.gmu.swe.junit.measurement.SlowTest7_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692146344
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692146361
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692146361
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest96_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692146738
+
+edu.gmu.swe.junit.measurement.SlowTest96_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692146741
+    TESTPROFILER,SlowTest250,testEnd,1567692146996
+
+edu.gmu.swe.junit.measurement.SlowTest96_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692146997
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692147013
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692147013
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest11_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692147400
+
+edu.gmu.swe.junit.measurement.SlowTest11_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692147403
+    TESTPROFILER,SlowTest250,testEnd,1567692147653
+
+edu.gmu.swe.junit.measurement.SlowTest11_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692147654
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692147670
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692147670
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest77_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692148039
+
+edu.gmu.swe.junit.measurement.SlowTest77_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692148041
+    TESTPROFILER,SlowTest250,testEnd,1567692148296
+
+edu.gmu.swe.junit.measurement.SlowTest77_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692148297
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692148313
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692148314
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest39_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692148683
+
+edu.gmu.swe.junit.measurement.SlowTest39_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692148686
+    TESTPROFILER,SlowTest250,testEnd,1567692148937
+
+edu.gmu.swe.junit.measurement.SlowTest39_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692148938
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692148953
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692148954
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest25_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692149331
+
+edu.gmu.swe.junit.measurement.SlowTest25_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692149334
+    TESTPROFILER,SlowTest250,testEnd,1567692149588
+
+edu.gmu.swe.junit.measurement.SlowTest25_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692149589
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692149605
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692149605
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest93_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692149983
+
+edu.gmu.swe.junit.measurement.SlowTest93_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692149986
+    TESTPROFILER,SlowTest250,testEnd,1567692150239
+
+edu.gmu.swe.junit.measurement.SlowTest93_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692150240
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692150256
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692150257
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest43_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692150638
+
+edu.gmu.swe.junit.measurement.SlowTest43_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692150640
+    TESTPROFILER,SlowTest250,testEnd,1567692150895
+
+edu.gmu.swe.junit.measurement.SlowTest43_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692150895
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692150910
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692150910
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest2_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692151289
+
+edu.gmu.swe.junit.measurement.SlowTest2_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692151291
+    TESTPROFILER,SlowTest250,testEnd,1567692151545
+
+edu.gmu.swe.junit.measurement.SlowTest2_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692151546
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692151561
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692151561
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest89_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692151944
+
+edu.gmu.swe.junit.measurement.SlowTest89_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692151947
+    TESTPROFILER,SlowTest250,testEnd,1567692152197
+
+edu.gmu.swe.junit.measurement.SlowTest89_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692152198
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692152214
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692152215
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest59_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692152594
+
+edu.gmu.swe.junit.measurement.SlowTest59_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692152597
+    TESTPROFILER,SlowTest250,testEnd,1567692152852
+
+edu.gmu.swe.junit.measurement.SlowTest59_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692152853
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692152869
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692152869
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest17_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692153245
+
+edu.gmu.swe.junit.measurement.SlowTest17_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692153248
+    TESTPROFILER,SlowTest250,testEnd,1567692153501
+
+edu.gmu.swe.junit.measurement.SlowTest17_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692153502
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692153518
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692153518
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest71_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692153895
+
+edu.gmu.swe.junit.measurement.SlowTest71_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692153898
+    TESTPROFILER,SlowTest250,testEnd,1567692154148
+
+edu.gmu.swe.junit.measurement.SlowTest71_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692154149
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692154166
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692154166
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest23_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692154550
+
+edu.gmu.swe.junit.measurement.SlowTest23_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692154553
+    TESTPROFILER,SlowTest250,testEnd,1567692154804
+
+edu.gmu.swe.junit.measurement.SlowTest23_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692154805
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692154820
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692154820
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest4_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692155192
+
+edu.gmu.swe.junit.measurement.SlowTest4_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692155195
+    TESTPROFILER,SlowTest250,testEnd,1567692155449
+
+edu.gmu.swe.junit.measurement.SlowTest4_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692155450
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692155466
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692155466
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest45_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692155845
+
+edu.gmu.swe.junit.measurement.SlowTest45_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692155848
+    TESTPROFILER,SlowTest250,testEnd,1567692156100
+
+edu.gmu.swe.junit.measurement.SlowTest45_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692156101
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692156117
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692156117
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest95_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692156501
+
+edu.gmu.swe.junit.measurement.SlowTest95_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692156504
+    TESTPROFILER,SlowTest250,testEnd,1567692156755
+
+edu.gmu.swe.junit.measurement.SlowTest95_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692156756
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692156772
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692156772
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest12_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692157151
+
+edu.gmu.swe.junit.measurement.SlowTest12_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692157153
+    TESTPROFILER,SlowTest250,testEnd,1567692157406
+
+edu.gmu.swe.junit.measurement.SlowTest12_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692157407
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692157423
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692157423
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest74_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692157799
+
+edu.gmu.swe.junit.measurement.SlowTest74_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692157802
+    TESTPROFILER,SlowTest250,testEnd,1567692158057
+
+edu.gmu.swe.junit.measurement.SlowTest74_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692158058
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692158074
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692158074
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest68_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692158454
+
+edu.gmu.swe.junit.measurement.SlowTest68_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692158457
+    TESTPROFILER,SlowTest250,testEnd,1567692158707
+
+edu.gmu.swe.junit.measurement.SlowTest68_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692158707
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692158726
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692158726
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest26_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692159105
+
+edu.gmu.swe.junit.measurement.SlowTest26_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692159108
+    TESTPROFILER,SlowTest250,testEnd,1567692159363
+
+edu.gmu.swe.junit.measurement.SlowTest26_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692159364
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692159379
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692159379
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest90_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692159755
+
+edu.gmu.swe.junit.measurement.SlowTest90_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692159758
+    TESTPROFILER,SlowTest250,testEnd,1567692160012
+
+edu.gmu.swe.junit.measurement.SlowTest90_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692160012
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692160026
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692160026
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest1_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692160412
+
+edu.gmu.swe.junit.measurement.SlowTest1_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692160415
+    TESTPROFILER,SlowTest250,testEnd,1567692160667
+
+edu.gmu.swe.junit.measurement.SlowTest1_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692160668
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692160684
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692160684
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest40_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692161084
+
+edu.gmu.swe.junit.measurement.SlowTest40_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692161087
+    TESTPROFILER,SlowTest250,testEnd,1567692161342
+
+edu.gmu.swe.junit.measurement.SlowTest40_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692161342
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692161358
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692161358
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest88_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692161750
+
+edu.gmu.swe.junit.measurement.SlowTest88_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692161753
+    TESTPROFILER,SlowTest250,testEnd,1567692162003
+
+edu.gmu.swe.junit.measurement.SlowTest88_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692162004
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692162020
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692162020
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest16_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692162409
+
+edu.gmu.swe.junit.measurement.SlowTest16_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692162412
+    TESTPROFILER,SlowTest250,testEnd,1567692162665
+
+edu.gmu.swe.junit.measurement.SlowTest16_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692162666
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692162682
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692162682
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest58_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692163081
+
+edu.gmu.swe.junit.measurement.SlowTest58_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692163084
+    TESTPROFILER,SlowTest250,testEnd,1567692163339
+
+edu.gmu.swe.junit.measurement.SlowTest58_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692163340
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692163355
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692163355
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest70_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692163746
+
+edu.gmu.swe.junit.measurement.SlowTest70_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692163749
+    TESTPROFILER,SlowTest250,testEnd,1567692164002
+
+edu.gmu.swe.junit.measurement.SlowTest70_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692164003
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692164020
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692164020
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest22_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692164458
+
+edu.gmu.swe.junit.measurement.SlowTest22_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692164461
+    TESTPROFILER,SlowTest250,testEnd,1567692164716
+
+edu.gmu.swe.junit.measurement.SlowTest22_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692164717
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692164735
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692164735
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest5_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692165170
+
+edu.gmu.swe.junit.measurement.SlowTest5_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692165173
+    TESTPROFILER,SlowTest250,testEnd,1567692165426
+
+edu.gmu.swe.junit.measurement.SlowTest5_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692165427
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692165442
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692165442
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest44_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692165867
+
+edu.gmu.swe.junit.measurement.SlowTest44_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692165871
+    TESTPROFILER,SlowTest250,testEnd,1567692166123
+
+edu.gmu.swe.junit.measurement.SlowTest44_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692166124
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692166140
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692166140
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest94_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692166556
+
+edu.gmu.swe.junit.measurement.SlowTest94_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692166559
+    TESTPROFILER,SlowTest250,testEnd,1567692166811
+
+edu.gmu.swe.junit.measurement.SlowTest94_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692166813
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692166828
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692166828
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest13_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692167235
+
+edu.gmu.swe.junit.measurement.SlowTest13_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692167239
+    TESTPROFILER,SlowTest250,testEnd,1567692167492
+
+edu.gmu.swe.junit.measurement.SlowTest13_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692167492
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692167508
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692167508
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest75_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692167921
+
+edu.gmu.swe.junit.measurement.SlowTest75_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692167925
+    TESTPROFILER,SlowTest250,testEnd,1567692168176
+
+edu.gmu.swe.junit.measurement.SlowTest75_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692168177
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692168193
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692168193
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest27_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692168624
+
+edu.gmu.swe.junit.measurement.SlowTest27_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692168627
+    TESTPROFILER,SlowTest250,testEnd,1567692168879
+
+edu.gmu.swe.junit.measurement.SlowTest27_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692168880
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692168896
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692168896
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest69_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692169313
+
+edu.gmu.swe.junit.measurement.SlowTest69_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692169316
+    TESTPROFILER,SlowTest250,testEnd,1567692169569
+
+edu.gmu.swe.junit.measurement.SlowTest69_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692169570
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692169585
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692169586
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest91_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692169967
+
+edu.gmu.swe.junit.measurement.SlowTest91_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692169971
+    TESTPROFILER,SlowTest250,testEnd,1567692170224
+
+edu.gmu.swe.junit.measurement.SlowTest91_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692170225
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692170241
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692170241
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest0_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692170630
+
+edu.gmu.swe.junit.measurement.SlowTest0_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692170633
+    TESTPROFILER,SlowTest250,testEnd,1567692170888
+
+edu.gmu.swe.junit.measurement.SlowTest0_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692170889
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692170916
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692170916
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest41_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692171295
+
+edu.gmu.swe.junit.measurement.SlowTest41_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692171298
+    TESTPROFILER,SlowTest250,testEnd,1567692171553
+
+edu.gmu.swe.junit.measurement.SlowTest41_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692171554
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692171570
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692171570
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest32_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692171943
+
+edu.gmu.swe.junit.measurement.SlowTest32_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692171945
+    TESTPROFILER,SlowTest250,testEnd,1567692172198
+
+edu.gmu.swe.junit.measurement.SlowTest32_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692172198
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692172212
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692172213
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest54_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692172629
+
+edu.gmu.swe.junit.measurement.SlowTest54_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692172632
+    TESTPROFILER,SlowTest250,testEnd,1567692172885
+
+edu.gmu.swe.junit.measurement.SlowTest54_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692172886
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692172901
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692172901
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest84_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692173278
+
+edu.gmu.swe.junit.measurement.SlowTest84_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692173281
+    TESTPROFILER,SlowTest250,testEnd,1567692173535
+
+edu.gmu.swe.junit.measurement.SlowTest84_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692173536
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692173552
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692173552
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest98_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692173930
+
+edu.gmu.swe.junit.measurement.SlowTest98_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692173933
+    TESTPROFILER,SlowTest250,testEnd,1567692174188
+
+edu.gmu.swe.junit.measurement.SlowTest98_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692174189
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692174205
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692174205
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest48_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692174610
+
+edu.gmu.swe.junit.measurement.SlowTest48_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692174613
+    TESTPROFILER,SlowTest250,testEnd,1567692174864
+
+edu.gmu.swe.junit.measurement.SlowTest48_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692174865
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692174880
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692174881
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest9_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692175262
+
+edu.gmu.swe.junit.measurement.SlowTest9_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692175265
+    TESTPROFILER,SlowTest250,testEnd,1567692175519
+
+edu.gmu.swe.junit.measurement.SlowTest9_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692175520
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692175547
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692175547
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest60_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692175975
+
+edu.gmu.swe.junit.measurement.SlowTest60_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692175978
+    TESTPROFILER,SlowTest250,testEnd,1567692176228
+
+edu.gmu.swe.junit.measurement.SlowTest60_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692176229
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692176245
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692176245
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest79_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692176648
+
+edu.gmu.swe.junit.measurement.SlowTest79_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692176650
+    TESTPROFILER,SlowTest250,testEnd,1567692176902
+
+edu.gmu.swe.junit.measurement.SlowTest79_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692176903
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692176918
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692176918
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest37_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692177304
+
+edu.gmu.swe.junit.measurement.SlowTest37_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692177306
+    TESTPROFILER,SlowTest250,testEnd,1567692177561
+
+edu.gmu.swe.junit.measurement.SlowTest37_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692177562
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692177578
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692177578
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest81_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692177956
+
+edu.gmu.swe.junit.measurement.SlowTest81_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692177958
+    TESTPROFILER,SlowTest250,testEnd,1567692178211
+
+edu.gmu.swe.junit.measurement.SlowTest81_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692178212
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692178228
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692178228
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest51_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692178614
+
+edu.gmu.swe.junit.measurement.SlowTest51_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692178616
+    TESTPROFILER,SlowTest250,testEnd,1567692178868
+
+edu.gmu.swe.junit.measurement.SlowTest51_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692178869
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692178882
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692178883
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest65_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692179322
+
+edu.gmu.swe.junit.measurement.SlowTest65_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692179325
+    TESTPROFILER,SlowTest250,testEnd,1567692179578
+
+edu.gmu.swe.junit.measurement.SlowTest65_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692179579
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692179593
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692179593
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest33_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692180064
+
+edu.gmu.swe.junit.measurement.SlowTest33_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692180068
+    TESTPROFILER,SlowTest250,testEnd,1567692180319
+
+edu.gmu.swe.junit.measurement.SlowTest33_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692180320
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692180336
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692180336
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest55_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692180750
+
+edu.gmu.swe.junit.measurement.SlowTest55_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692180753
+    TESTPROFILER,SlowTest250,testEnd,1567692181004
+
+edu.gmu.swe.junit.measurement.SlowTest55_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692181005
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692181017
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692181017
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest85_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692181423
+
+edu.gmu.swe.junit.measurement.SlowTest85_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692181426
+    TESTPROFILER,SlowTest250,testEnd,1567692181681
+
+edu.gmu.swe.junit.measurement.SlowTest85_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692181682
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692181695
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692181695
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest99_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692182076
+
+edu.gmu.swe.junit.measurement.SlowTest99_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692182079
+    TESTPROFILER,SlowTest250,testEnd,1567692182334
+
+edu.gmu.swe.junit.measurement.SlowTest99_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692182334
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692182348
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692182348
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest49_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692182755
+
+edu.gmu.swe.junit.measurement.SlowTest49_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692182758
+    TESTPROFILER,SlowTest250,testEnd,1567692183010
+
+edu.gmu.swe.junit.measurement.SlowTest49_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692183010
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692183024
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692183024
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest8_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692183413
+
+edu.gmu.swe.junit.measurement.SlowTest8_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692183416
+    TESTPROFILER,SlowTest250,testEnd,1567692183669
+
+edu.gmu.swe.junit.measurement.SlowTest8_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692183670
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692183684
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692183684
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest61_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692184144
+
+edu.gmu.swe.junit.measurement.SlowTest61_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692184148
+    TESTPROFILER,SlowTest250,testEnd,1567692184402
+
+edu.gmu.swe.junit.measurement.SlowTest61_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692184403
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692184423
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692184423
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest36_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692184842
+
+edu.gmu.swe.junit.measurement.SlowTest36_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692184845
+    TESTPROFILER,SlowTest250,testEnd,1567692185099
+
+edu.gmu.swe.junit.measurement.SlowTest36_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692185099
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692185116
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692185116
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest78_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692185531
+
+edu.gmu.swe.junit.measurement.SlowTest78_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692185535
+    TESTPROFILER,SlowTest250,testEnd,1567692185789
+
+edu.gmu.swe.junit.measurement.SlowTest78_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692185790
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692185804
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692185804
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest80_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692186251
+
+edu.gmu.swe.junit.measurement.SlowTest80_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692186254
+    TESTPROFILER,SlowTest250,testEnd,1567692186507
+
+edu.gmu.swe.junit.measurement.SlowTest80_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692186508
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692186520
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692186520
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest50_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692186951
+
+edu.gmu.swe.junit.measurement.SlowTest50_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692186954
+    TESTPROFILER,SlowTest250,testEnd,1567692187208
+
+edu.gmu.swe.junit.measurement.SlowTest50_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692187209
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692187225
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692187225
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest64_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692187631
+
+edu.gmu.swe.junit.measurement.SlowTest64_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692187634
+    TESTPROFILER,SlowTest250,testEnd,1567692187889
+
+edu.gmu.swe.junit.measurement.SlowTest64_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692187890
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692187906
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692187906
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest30_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692188299
+
+edu.gmu.swe.junit.measurement.SlowTest30_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692188302
+    TESTPROFILER,SlowTest250,testEnd,1567692188556
+
+edu.gmu.swe.junit.measurement.SlowTest30_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692188557
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692188573
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692188573
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest18_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692188974
+
+edu.gmu.swe.junit.measurement.SlowTest18_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692188977
+    TESTPROFILER,SlowTest250,testEnd,1567692189230
+
+edu.gmu.swe.junit.measurement.SlowTest18_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692189231
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692189247
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692189247
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest56_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692189633
+
+edu.gmu.swe.junit.measurement.SlowTest56_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692189636
+    TESTPROFILER,SlowTest250,testEnd,1567692189890
+
+edu.gmu.swe.junit.measurement.SlowTest56_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692189891
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692189906
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692189906
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest86_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692190292
+
+edu.gmu.swe.junit.measurement.SlowTest86_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692190294
+    TESTPROFILER,SlowTest250,testEnd,1567692190545
+
+edu.gmu.swe.junit.measurement.SlowTest86_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692190546
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692190561
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692190562
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest62_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692190960
+
+edu.gmu.swe.junit.measurement.SlowTest62_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692190963
+    TESTPROFILER,SlowTest250,testEnd,1567692191218
+
+edu.gmu.swe.junit.measurement.SlowTest62_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692191219
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692191236
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692191236
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest35_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692191629
+
+edu.gmu.swe.junit.measurement.SlowTest35_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692191631
+    TESTPROFILER,SlowTest250,testEnd,1567692191886
+
+edu.gmu.swe.junit.measurement.SlowTest35_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692191887
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692191904
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692191904
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest83_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692192288
+
+edu.gmu.swe.junit.measurement.SlowTest83_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692192291
+    TESTPROFILER,SlowTest250,testEnd,1567692192544
+
+edu.gmu.swe.junit.measurement.SlowTest83_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692192545
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692192561
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692192561
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest53_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692192942
+
+edu.gmu.swe.junit.measurement.SlowTest53_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692192944
+    TESTPROFILER,SlowTest250,testEnd,1567692193199
+
+edu.gmu.swe.junit.measurement.SlowTest53_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692193200
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692193216
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692193216
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest29_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692193607
+
+edu.gmu.swe.junit.measurement.SlowTest29_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692193609
+    TESTPROFILER,SlowTest250,testEnd,1567692193864
+
+edu.gmu.swe.junit.measurement.SlowTest29_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692193865
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692193879
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692193879
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest67_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692194280
+
+edu.gmu.swe.junit.measurement.SlowTest67_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692194283
+    TESTPROFILER,SlowTest250,testEnd,1567692194537
+
+edu.gmu.swe.junit.measurement.SlowTest67_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692194538
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692194552
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692194552
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest31_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692194944
+
+edu.gmu.swe.junit.measurement.SlowTest31_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692194946
+    TESTPROFILER,SlowTest250,testEnd,1567692195200
+
+edu.gmu.swe.junit.measurement.SlowTest31_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692195200
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692195214
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692195214
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest57_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692195611
+
+edu.gmu.swe.junit.measurement.SlowTest57_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692195614
+    TESTPROFILER,SlowTest250,testEnd,1567692195866
+
+edu.gmu.swe.junit.measurement.SlowTest57_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692195867
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692195882
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692195882
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest19_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692196321
+
+edu.gmu.swe.junit.measurement.SlowTest19_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692196325
+    TESTPROFILER,SlowTest250,testEnd,1567692196577
+
+edu.gmu.swe.junit.measurement.SlowTest19_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692196578
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692196594
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692196594
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest87_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692196977
+
+edu.gmu.swe.junit.measurement.SlowTest87_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692196980
+    TESTPROFILER,SlowTest250,testEnd,1567692197230
+
+edu.gmu.swe.junit.measurement.SlowTest87_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692197231
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692197246
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692197246
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest63_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692197620
+
+edu.gmu.swe.junit.measurement.SlowTest63_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692197623
+    TESTPROFILER,SlowTest250,testEnd,1567692197878
+
+edu.gmu.swe.junit.measurement.SlowTest63_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692197879
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692197895
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692197895
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest34_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692198266
+
+edu.gmu.swe.junit.measurement.SlowTest34_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692198269
+    TESTPROFILER,SlowTest250,testEnd,1567692198524
+
+edu.gmu.swe.junit.measurement.SlowTest34_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692198524
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692198536
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692198537
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest82_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692198905
+
+edu.gmu.swe.junit.measurement.SlowTest82_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692198909
+    TESTPROFILER,SlowTest250,testEnd,1567692199162
+
+edu.gmu.swe.junit.measurement.SlowTest82_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692199163
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692199179
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692199179
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest52_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692199558
+
+edu.gmu.swe.junit.measurement.SlowTest52_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692199561
+    TESTPROFILER,SlowTest250,testEnd,1567692199812
+
+edu.gmu.swe.junit.measurement.SlowTest52_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692199814
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692199829
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692199829
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest66_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692200207
+
+edu.gmu.swe.junit.measurement.SlowTest66_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692200210
+    TESTPROFILER,SlowTest250,testEnd,1567692200462
+
+edu.gmu.swe.junit.measurement.SlowTest66_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692200463
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692200478
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.processTestClass,entry,1567692200478
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar -Xbootclasspath/p:/Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar
+
+edu.gmu.swe.junit.measurement.SlowTest28_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,beforeClass,1567692200861
+
+edu.gmu.swe.junit.measurement.SlowTest28_250msecTest > testTakes250 STANDARD_OUT
+    TESTPROFILER,SlowTest250,testStart,1567692200865
+    TESTPROFILER,SlowTest250,testEnd,1567692201116
+
+edu.gmu.swe.junit.measurement.SlowTest28_250msecTest STANDARD_OUT
+    TESTPROFILER,SlowTest250,afterClass,1567692201117
+TESTPROFILER,org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.stop,exit,1567692201132
+
+BUILD SUCCESSFUL in 1m 10s
+3 actionable tasks: 3 executed
