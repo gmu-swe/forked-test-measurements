@@ -1,10 +1,35 @@
 # forked-test-measurements
 
 To run:
-1. Install instrumentation project, resulting jar goes to `$INST_JAR_LOC` (e.g. /Users/jon/.m2/repository/edu/gmu/swe/junit/measurement/BuildSystemProfiler/0.0.1-SNAPSHOT/BuildSystemProfiler-0.0.1-SNAPSHOT.jar)
-2. Set environmental variable `JAVA_TOOL_OPTIONS="-javaagent:$INST_JAR_LOC -Xbootclasspath/p:$INST_JAR_LOC`
-3. Run each build, collect output to file in `results/log.ant|mvn|gradle.txt`
-4. In `results` run `php parseLogs.php`
+
+1. Install instrumentation project
+
+```sh
+mvn clean install --file build-instrumenter/pom.xml
+```
+
+Look for `maven-install-plugin` command line output like
+
+    Installing /home/jon/code/dhis2/forked-test-measurements/build-instrumenter/target/build-system-profiler-1.0.0-SNAPSHOT-jar-with-dependencies.jar to /home/jon/.m2/repository/edu/gmu/swe/junit/measurement/build-system-profiler/1.0.0-SNAPSHOT/build-system-profiler-1.0.0-SNAPSHOT-jar-with-dependencies.jar
+
+which tells you where to the agent was installed
+
+2. Make the jar location available in an environment variable
+
+```sh
+export INST_JAR_LOC=<jar install destination>
+```
+
+**Make sure to use the location to the jar with-dependencies!**
+
+3. Set environmental variable
+
+```sh
+export JAVA_TOOL_OPTIONS="-javaagent:$INST_JAR_LOC -Xbootclasspath/a:$INST_JAR_LOC"
+```
+
+4. Run each build, collect output to file in `results/log.ant|mvn|gradle.txt`
+5. In `results` run `php parseLogs.php`
 
 Results:
 
